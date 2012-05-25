@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includepath>
+  <includepathentry path="/opt/work/e-work1/soc-recon/lib" />
+  <includepathentry path="/opt/work/e-work1/PLib/lib" />
+  <includepathentry path="/opt/work/e-work1/mutils/lib/" />
+</includepath>
+
